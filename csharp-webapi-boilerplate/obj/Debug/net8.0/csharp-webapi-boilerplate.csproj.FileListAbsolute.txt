@@ -225,3 +225,4 @@
 /Users/shayan/Desktop/sandbox-8/dotnet/csharp-webapi-boilerplate/csharp-webapi-boilerplate/obj/Debug/net8.0/csharp-webapi-boilerplate.pdb
 /Users/shayan/Desktop/sandbox-8/dotnet/csharp-webapi-boilerplate/csharp-webapi-boilerplate/obj/Debug/net8.0/csharp-webapi-boilerplate.genruntimeconfig.cache
 /Users/shayan/Desktop/sandbox-8/dotnet/csharp-webapi-boilerplate/csharp-webapi-boilerplate/obj/Debug/net8.0/ref/csharp-webapi-boilerplate.dll
+/Users/shayan/Desktop/sandbox-8/dotnet/csharp-webapi-boilerplate/csharp-webapi-boilerplate/obj/Debug/net8.0/csharp-webapi-boilerplate.sourcelink.json
