@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xNylGmsWfFaYGdjoOdDW1iXEbi928eb8vYdy6RxwJ4I=",
+  "Source": "csharp-webapi-boilerplate",
+  "BasePath": "_content/csharp-webapi-boilerplate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
